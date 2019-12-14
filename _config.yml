@@ -54,17 +54,21 @@ footer:
   copyright:
   # -------------------------------------------------------------
   # Hexo link (Powered by Hexo).
-  powered: true
+  powered: false
 
   theme:
     # Theme & scheme info link (Theme - NexT.scheme).
-    enable: true
+    enable: false
     # Version info of NexT after scheme info (vX.X.X).
     version: true
   # -------------------------------------------------------------
   # Any custom text can be defined here.
   #custom_text: Hosted by <a target="_blank" href="https://pages.github.com">GitHub Pages</a>
-
+  beian: 
+    enable: true
+    beian_number: "苏ICP备14021030号"
+    gongan_beian_recordcode: "32032202000223"
+    gongan_beian_number: "苏公网安备 32032202000223号"
 # ---------------------------------------------------------------
 # SEO Settings
 # ---------------------------------------------------------------
